@@ -9,7 +9,7 @@ const inter = Inter({
 
 export const metadata = {
   title: 'NCR Work Term Report',
-  description: 'NCR Workt Term Report - Anthony Dip',
+  description: 'NCR Work Term Report - Anthony Dip',
 };
 
 const RootLayout = ({
